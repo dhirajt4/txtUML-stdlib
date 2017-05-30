@@ -5,6 +5,12 @@ import hu.elte.txtuml.api.model.External;
 import hu.elte.txtuml.api.model.ExternalBody;
 import hu.elte.txtuml.api.model.ModelClass;
 
+/**
+ * The Interface StringBuilder contains several useful methods from the original System
+ * class in order to use as External class in txtUML
+ * @see StringBuilder 
+ * 
+ */
 
 public class StringBuilder extends ModelClass {
 
