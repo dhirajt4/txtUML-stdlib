@@ -1,5 +1,3 @@
-package stringBuild;
-
 import hu.elte.txtuml.api.model.External;
 import hu.elte.txtuml.api.model.ExternalBody;
 import hu.elte.txtuml.api.model.ModelClass;
